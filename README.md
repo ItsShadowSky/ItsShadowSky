@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm ItsShadowSky
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4433ff&center=true&vCenter=true&width=500&lines=Hiding+in+the+shadows.;Coding+under+the+sky.;Always+learning+something+new." alt="Typing SVG" />
+</p>
+Welcome to my digital garden.
 
-<!--
-**ItsShadowSky/ItsShadowSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I'm currently working on nothing
+- 🌱 I'm currently learning basic python
+- 📫 How to reach me: **discord**:0wned_by_sky
+--
+<p align="center">
+  Made with ❤️ by ItsShadowSky
+</p>
