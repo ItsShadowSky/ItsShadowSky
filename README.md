@@ -1,6 +1,6 @@
 # Hi, I'm ItsShadowSky
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4433ff&center=true&vCenter=true&width=500&lines=Hiding+in+the+shadows.;Coding+under+the+sky.;Always+learning+something+new." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=05c22b&center=true&vCenter=true&width=500&lines=Hiding+in+the+shadows.;Learning+how+to+code.;Playing+War+thunder." alt="Typing SVG" />
 </p>
 Welcome to my digital garden.
 
