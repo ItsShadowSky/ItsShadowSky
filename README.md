@@ -1,5 +1,6 @@
 # Hi, I'm ItsShadowSky
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=300&duration=10000&pause=1000&color=58F6FF&background=6AB6FF00&center=true&vCenter=true&random=true&width=435&lines=I+like+War+thunder.;War+thunder+is+a+bad+game.;Sky+isn't+the+limit%2C+the+moon+is.;Sky+is+abou+freedom." alt="Typing SVG" /></a>
+
 Welcome to my digital garden.
 
 ### 🚀 About Me
